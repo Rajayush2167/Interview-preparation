@@ -128,7 +128,7 @@ Here are some helpful resources for further learning:
 |-------------------|---------------------------------------------------|
 | Computer Networks | [Computer Networking by https://drive.google.com/file/d/1oJdfltf9JXED3lR_p2hwDN47uiGuc_zA/view) |
 | Operating Systems | [Operating System Concepts by https://drive.google.com/file/d/1Fmb_8CN_UC6OTg82h6aInB7ahPgIt7xS/view?usp=drive_link) |
-| DBMS             | [Database Systemhttps://drive.google.com/file/d/1eHyd61xBoi5_rJ0TbqjnfxJDsyCwQkut/view?usp=drive_link) |
+| DBMS             | [Database System  https://drive.google.com/file/d/1eHyd61xBoi5_rJ0TbqjnfxJDsyCwQkut/view?usp=drive_link) |
 | DSA              | [GeeksforGeeks](https://www.geeksforgeeks.org)     |
 | Web Development  | [MDN Web Docs](https://developer.mozilla.org)      |
 
